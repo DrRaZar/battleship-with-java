@@ -30,7 +30,7 @@ This is a simple **Battleship** game implemented in Java. Two players place thei
 1. **Setup:**
    - Clone the repository:
      ```bash
-     git clone https://github.com/DrRaZar/battleship.git
+     git clone https://github.com/DrRaZar/battleship-with-java.git
      ```
    - Open the project in your favorite IDE.
    - Compile and run the `Main` class to start the game.
